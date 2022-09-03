@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janak Bista</h1>
-<h3 align="center">A passionate frontend developer from Kathmandu , Nepal</h3>
+<h3 align="center">A passionate Fullstack developer from Kathmandu , Nepal</h3>
 
 <img align="right" alt="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/janakbista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janakbista" height="30" width="40" /></a>
+<a href="https://twitter.com/JanakBista18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janakbista" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/janak-bista-607a091ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janak-bista-607a091ba/" height="30" width="40" /></a>
 <a href="https://fb.com/zanak bista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zanak bista" height="30" width="40" /></a>
 </p>
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janakbist&show_icons=true&locale=en" alt="janakbist" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janakbist&" alt="janakbist" /></p>
-
