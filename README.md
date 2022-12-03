@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Janak Bista</h1>
-<h3 align="center">A passionate Fullstack developer from Kathmandu , Nepal</h3>
+<h3 align="center">A passionate Android developer from Kathmandu , Nepal</h3>
 
 <img align="right" alt="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janakbist&label=Profile%20views&color=0e75b6&style=flat" alt="janakbist" /> </p>
 
-- 🔭 I’m currently working on **Social Media application**
-
 - 👨‍💻 All of my projects are available at [https://github.com/janakbist](https://github.com/janakbist)
 
-- 💬 Ask me about **Android ,Java , php , javascript**
+- 💬 Ask me about **Android ,Java, kotlin , php , javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
