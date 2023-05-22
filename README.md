@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/janakbist](https://github.com/janakbist)
 
-- 💬 Ask me about **Android ,Java, kotlin , php , javascript**
+- 💬 Ask me about **Android ,Flutter,Java, kotlin , php , javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
